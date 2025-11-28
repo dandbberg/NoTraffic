@@ -274,3 +274,7 @@ kubectl delete secret nginx-tls keycloak-credentials
 ```
 
 ---
+
+### Screenshot
+
+![Shell](./Screenshot.png)
